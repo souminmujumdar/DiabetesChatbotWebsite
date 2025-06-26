@@ -12,8 +12,8 @@ Below are screenshots showcasing key features of the Diabetes Assistant Chatbot:
 ![Chatbot](images/webpage2.png "Chatbot interface for risk assessment and queries")
 ![Chatbot](images/startchat.png "Chatbot interface for risk assessment and queries")
 ![Chatbot](images/chatbotrisk.png "Chatbot interface for risk assessment and queries")
-![Chatbot](images/result.png "Chatbot interface for risk assessment and queries")
-![Chatbot](images/realtedillness.png "Chatbot interface for risk assessment and queries")
+![Chatbot](images/results.png "Chatbot interface for risk assessment and queries")
+![Chatbot](images/relatedillness.png "Chatbot interface for risk assessment and queries")
 
 *Chatbot interface for initiating risk assessments and asking diabetes-related questions.*
 
