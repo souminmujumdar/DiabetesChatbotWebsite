@@ -18,7 +18,7 @@ Below are screenshots showcasing key features of the Diabetes Assistant Chatbot:
 *Chatbot interface for initiating risk assessments and asking diabetes-related questions.*
 
 ![Meal Planner](images/mealpanner.png "7-day meal plan with diabetes-friendly recipes")
-![Meal Planner](images/nutritionassitant.png "7-day meal plan with diabetes-friendly recipes")
+![Meal Planner](images/nutritionassisstant.png "7-day meal plan with diabetes-friendly recipes")
 ![Meal Planner](images/recipe.png "7-day meal plan with diabetes-friendly recipes")
 ![Meal Planner](images/recipedetails.png "7-day meal plan with diabetes-friendly recipes")
 *7-day meal plan displaying diabetes-friendly Indian recipes.*
