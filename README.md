@@ -8,7 +8,7 @@ The **Diabetes Assistant Chatbot** is a web-based application designed to empowe
 
 Below are screenshots showcasing key features of the Diabetes Assistant Chatbot:
 
-![Chatbot Web Page](webpage.png "Chatbot interface for risk assessment and queries")
+![Chatbot Web Page](images/webpage.png "Chatbot interface for risk assessment and queries")
 *Chatbot interface for initiating risk assessments and asking diabetes-related questions.*
 
 ![Meal Planner](images/meal-plan-screenshot.png "7-day meal plan with diabetes-friendly recipes")
